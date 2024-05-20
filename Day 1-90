@@ -1,0 +1,38 @@
+LinkedIn Post: 1/90 Days Learning Go Lang Challenge 🚀
+Day 1: Installing Go Lang & Setting Up Your Environment
+Today marks the beginning of my 90-day journey to master Go Lang, and I'm excited to share my progress with you all! Here's a quick rundown of the steps I took to get started:
+
+Steps to Install Go Lang:
+Visit the Go Lang Website:
+Go to go.dev/doc/install.
+
+Select Your OS Configuration:
+Choose the appropriate version for your operating system.
+
+Choose the Stable Version:
+Instead of opting for the latest version, go for the stable release to ensure reliability.
+
+Install the Downloaded File:
+Run the installer and follow the instructions to complete the installation.
+
+Verify the Installation:
+Open your terminal and type go version to check if Go is installed correctly.
+
+Check Environment Variables:
+If the version is displayed, your environment variables are set up correctly. If not, you may need to configure them manually.
+
+Choosing an IDE:
+Offline IDE:
+I personally use "GoLand" for a seamless offline development experience.
+
+Online Compiler:
+For those who prefer not to install an IDE locally, Repl.it offers an excellent online compiler for Go Lang.
+
+Next Steps:
+Now that our compiler and IDE are ready, it's time to dive into coding. But first, let's brush up on some theory. Check out this Introduction to Go Programming Language on GeeksforGeeks to get a solid foundation.
+
+That's all for Day 1! Stay tuned for tomorrow's update as we continue this learning journey. Let's get our hands dirty with some Go Lang code!
+
+#GoLang #LearningJourney #90DaysChallenge #Programming #Coding #Developer
+
+Looking forward to sharing more updates with you all! 🌟
